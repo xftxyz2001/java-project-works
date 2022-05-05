@@ -7,3 +7,4 @@
 2.  BankAccountManager：银行账户管理软件，就是简单的存取款
 3.  LargeNumber：一个虚假的BigInteger，而且有很多Bug
 4.  ShoppingCart：非常垃圾的购物车
+5.  TextEditor：一个虚假的记事本，剪贴板功能并不好用

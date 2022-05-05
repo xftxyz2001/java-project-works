@@ -1,0 +1,96 @@
+D:.
+│  fileOut.txt
+│  README.md
+│  UML.pdf
+│  uml.png
+│  参考模板.docx
+│  
+├─.vscode
+│      settings.json
+│      
+├─bin
+│  └─com
+│      └─xftxyz
+│          └─mynotepad
+│              ├─adapter
+│              │      AboutHelpMenuActionListener.class
+│              │      AddFontSizeMenuItemActionListener.class
+│              │      CopyMenuItemActionListener.class
+│              │      ExitMenuItemActionListener.class
+│              │      NewMenuItemActionListener.class
+│              │      OpenButtonActionListener.class
+│              │      OpenMenuItemActionListener.class
+│              │      PasteMenuItemActionListener.class
+│              │      SaveAsMenuItemActionListener.class
+│              │      SaveButtonActionListener.class
+│              │      SaveMenuItemActionListener.class
+│              │      StatisticsMenuItemActionListener.class
+│              │      SubFontSizeMenuItemActionListener.class
+│              │      ViewHelpMenuItemActionListener.class
+│              │      
+│              ├─menu
+│              │      XFEditMenu.class
+│              │      XFFileMenu.class
+│              │      XFHelpMenu.class
+│              │      XFMenuBar.class
+│              │      XFViewMenu.class
+│              │      
+│              ├─service
+│              │      XFGlobal.class
+│              │      
+│              ├─utils
+│              │      ClipboardUtil.class
+│              │      XFFileUtil.class
+│              │      
+│              └─view
+│                      NoteBook.class
+│                      OpenFrame$1.class
+│                      OpenFrame.class
+│                      SaveFrame$1.class
+│                      SaveFrame.class
+│                      StatisticsFrame$1.class
+│                      StatisticsFrame.class
+│                      TextEditor.class
+│                      
+├─lib
+└─src
+    └─com
+        └─xftxyz
+            └─mynotepad
+                ├─adapter
+                │      AboutHelpMenuActionListener.java
+                │      AddFontSizeMenuItemActionListener.java
+                │      CopyMenuItemActionListener.java
+                │      ExitMenuItemActionListener.java
+                │      NewMenuItemActionListener.java
+                │      OpenButtonActionListener.java
+                │      OpenMenuItemActionListener.java
+                │      PasteMenuItemActionListener.java
+                │      SaveAsMenuItemActionListener.java
+                │      SaveButtonActionListener.java
+                │      SaveMenuItemActionListener.java
+                │      StatisticsMenuItemActionListener.java
+                │      SubFontSizeMenuItemActionListener.java
+                │      ViewHelpMenuItemActionListener.java
+                │      
+                ├─menu
+                │      XFEditMenu.java
+                │      XFFileMenu.java
+                │      XFHelpMenu.java
+                │      XFMenuBar.java
+                │      XFViewMenu.java
+                │      
+                ├─service
+                │      XFGlobal.java
+                │      
+                ├─utils
+                │      ClipboardUtil.java
+                │      XFFileUtil.java
+                │      
+                └─view
+                        NoteBook.java
+                        OpenFrame.java
+                        SaveFrame.java
+                        StatisticsFrame.java
+                        TextEditor.java
+                        
