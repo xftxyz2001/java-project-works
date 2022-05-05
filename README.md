@@ -4,3 +4,4 @@
 
 ## 项目
 1.  AlarmClock：闹钟，图形界面的时钟。
+2.  BankAccountManager：银行账户管理软件，就是简单的存取款
